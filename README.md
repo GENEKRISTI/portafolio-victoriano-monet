@@ -1,5 +1,7 @@
 # Portafolio web — Estética victoriana e inspiración Monet
+ https://genekristi.github.io/portafolio-victoriano-monet/
 
+ 
 ## Objetivo
 Presentar un portafolio profesional adaptable con perfil, tecnologías, 9 proyectos filtrables, experiencia, videos de YouTube, formulario de contacto, redes sociales y modo claro/oscuro. El diseño combina inspiración victoriana, flores impresionistas y una animación sutil de caracteres/pétalos.
 
